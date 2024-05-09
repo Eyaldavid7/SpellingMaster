@@ -1,0 +1,7 @@
+Flask
+twilio
+openai
+requests
+pydub
+certifi
+gunicorn
